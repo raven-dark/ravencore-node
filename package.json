@@ -28,7 +28,7 @@
   ],
   "dependencies": {
     "async": "^2.5.0",
-    "ravend-rpc": "underdarkskies/ravend-rpc",
+    "ravend-rpc": "raven-dark/ravend-rpc",
     "ravencore-lib": "raven-dark/ravencore-lib",
     "body-parser": "^1.18.3",
     "colors": "^1.1.2",
