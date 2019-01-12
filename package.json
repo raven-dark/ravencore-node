@@ -50,7 +50,7 @@
   },
   "devDependencies": {
     "benchmark": "1.0.0",
-    "ravencore-p2p": "raven-dark/ravendark-p2p",
+    "ravencore-p2p": "raven-dark/ravencore-p2p",
     "chai": "^4.1.2",
     "coveralls": "^3.0.1",
     "istanbul": "^0.4.3",
